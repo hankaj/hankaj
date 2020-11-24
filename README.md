@@ -11,3 +11,5 @@
 :runner: Triathlon
 
 For more details see [my homepage](https://hankaj.github.io/).
+
+:sparkles: Something that interested me lately: [Benchmarking Graph Neural Networks](https://github.com/hankaj/benchmarking-gnns)
